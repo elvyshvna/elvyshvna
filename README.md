@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**elvyshvna/elvyshvna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Elvy
+Computer Science student at UiTM interested in AI.
+About me
+Studying: CS230, UiTM
+Currently learning: AI
+My FYP area: still deciding
+Skills and tools
+Python, SQL, Java, PHP.
+Projects
+Project name: one sentence about it
+Contact
+LinkedIn: [your profile link]
+Email: elvyshvna@gmail.com
