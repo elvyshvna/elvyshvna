@@ -18,5 +18,5 @@ Python, SQL, Java, PHP.
 
 ## Contact
 
-* LinkedIn: \[your profile link]
+* LinkedIn: www.linkedin.com/in/elvy-shaveena
 * Email: elvyshvna@gmail.com
