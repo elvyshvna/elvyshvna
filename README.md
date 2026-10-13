@@ -14,7 +14,7 @@ Python, SQL, Java, PHP.
 
 ## Projects
 
-* University Final Examination Timetabling (link-to-your-repository): 
+* University Final Examination Timetabling (link-to-your-repository): This project automates exam scheduling to create conflict-free timetables for university students and staff.
 
 ## Contact
 
