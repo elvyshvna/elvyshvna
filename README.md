@@ -14,7 +14,7 @@ Python, SQL, Java, PHP.
 
 ## Projects
 
-* [Project name](link-to-your-repository): one sentence about it
+* University Final Examination Timetabling (link-to-your-repository): 
 
 ## Contact
 
