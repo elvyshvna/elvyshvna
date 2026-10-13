@@ -1,6 +1,6 @@
 # Hi, I'm Elvy
 
-Computer Science student at UiTM interested in AI.
+Computer Science student at UiTM interested in Software Engineering & AI.
 
 ## About me
 
